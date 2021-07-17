@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NetspiritA.github.io</id>
     <title>NetspiritA</title>
-    <updated>2021-07-17T06:18:49.633Z</updated>
+    <updated>2021-07-17T06:20:05.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NetspiritA.github.io"/>
     <link rel="self" href="https://NetspiritA.github.io/atom.xml"/>
@@ -20,6 +20,6 @@
 <font size="6" color="blue">现在将转入主页面</font></p>
 <p class="alert_btnleft"><a href="
 NetspiritA.github.io">如果您的浏览器没有自动跳转，请点击此链接</a></p>
-<meta http-equiv="refresh" content="3;url=www.52pojie.cn">]]></content>
+<meta http-equiv="refresh" content="3;url=https://netspirita.github.io/">]]></content>
     </entry>
 </feed>

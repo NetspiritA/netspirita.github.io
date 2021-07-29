@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://netspirita.github.io</id>
     <title>NetspiritA</title>
-    <updated>2021-07-29T05:33:09.326Z</updated>
+    <updated>2021-07-29T05:35:54.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://netspirita.github.io"/>
     <link rel="self" href="https://netspirita.github.io/atom.xml"/>
@@ -16,8 +16,21 @@
         <link href="https://netspirita.github.io/post/te-bie-ming-xie/">
         </link>
         <updated>2021-07-29T05:30:24.000Z</updated>
-        <content type="html"><![CDATA[<p>特别鸣谢：<br>
-<a href="https://yiwhitea.github.io/">https://yiwhitea.github.io/</a></p>
+        <content type="html"><![CDATA[</span>
+</td>
+</tr>
+</table>
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table><img src="https://static.52pojie.cn/static/image/stamp/005.gif" title="置顶" /></div>
+<img src="https://static.52pojie.cn/static/image/stamp/005.gif" title="置顶">
+特别鸣谢：
+<a href="https://yiwhitea.github.io/">https://yiwhitea.github.io/</a>
 <p>感谢yiwhitea同学提供的思路——&gt;<a href="https://yiwhitea.github.io/post/dui-bi-tian-cheng-tong-xue-de-yan-li-pi-ping/">看看像不像杨xx</a></p>
 ]]></content>
     </entry>

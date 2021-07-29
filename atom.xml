@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://netspirita.github.io</id>
     <title>NetspiritA</title>
-    <updated>2021-07-29T05:25:40.720Z</updated>
+    <updated>2021-07-29T05:33:09.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://netspirita.github.io"/>
     <link rel="self" href="https://netspirita.github.io/atom.xml"/>
@@ -11,12 +11,23 @@
     <icon>https://netspirita.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, NetspiritA</rights>
     <entry>
-        <title type="html"><![CDATA[圈小猫]]></title>
+        <title type="html"><![CDATA[特别鸣谢]]></title>
+        <id>https://netspirita.github.io/post/te-bie-ming-xie/</id>
+        <link href="https://netspirita.github.io/post/te-bie-ming-xie/">
+        </link>
+        <updated>2021-07-29T05:30:24.000Z</updated>
+        <content type="html"><![CDATA[<p>特别鸣谢：<br>
+<a href="https://yiwhitea.github.io/">https://yiwhitea.github.io/</a></p>
+<p>感谢yiwhitea同学提供的思路——&gt;<a href="https://yiwhitea.github.io/post/dui-bi-tian-cheng-tong-xue-de-yan-li-pi-ping/">看看像不像杨xx</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我会jvav啊]]></title>
         <id>https://netspirita.github.io/post/quan-xiao-mao/</id>
         <link href="https://netspirita.github.io/post/quan-xiao-mao/">
         </link>
         <updated>2021-07-28T13:52:23.000Z</updated>
-        <content type="html"><![CDATA[<p><span style="font-size: x-large;"><b>点击小圆点，圈住杨明成！</b></span></p>
+        <content type="html"><![CDATA[<p><span style="font-size: x-large;"><b>点击小圆点，圈住杨MC！</b></span></p>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head> 

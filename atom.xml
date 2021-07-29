@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://netspirita.github.io</id>
     <title>NetspiritA</title>
-    <updated>2021-07-28T14:00:31.085Z</updated>
+    <updated>2021-07-29T05:18:37.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://netspirita.github.io"/>
     <link rel="self" href="https://netspirita.github.io/atom.xml"/>
@@ -103,8 +103,8 @@ a:active {
 	<p id="time" class="style7">0</p> 
 	<div id="loadad"></div> 
 </div>  
-<script src="js/https://github.com/NetspiritA/netspirita.github.io/blob/main/post/ymc/js/phaser.min.js"></script> 
-<script src="js/https://github.com/NetspiritA/netspirita.github.io/blob/main/post/ymc/js/catch-the-cat.js"></script> 
+<script src="js/https://github.com/NetspiritA/netspirita.github.io/blob/14d511609f6b51c064a8618c786dc592888e74e4/js/phaser.min.js"></script> 
+<script src="js/https://github.com/NetspiritA/netspirita.github.io/blob/14d511609f6b51c064a8618c786dc592888e74e4/js/catch-the-cat.js"></script> 
 <script>
 var myVar = setInterval(myTimer, 1000);
 var time = 0;
